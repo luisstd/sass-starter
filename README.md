@@ -1,1 +1,1 @@
-# landingpage-starter
+# website-starter
