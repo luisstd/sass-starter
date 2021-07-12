@@ -4,9 +4,9 @@
   "description": "website starter-template",
   "main": "app.js",
   "dependencies": {
-    "autoprefixer": "^10.0.0",
+    "autoprefixer": "^10.3.0",
     "normalize.css": "^8.0.1",
-    "postcss": "^8.0.9",
+    "postcss": "^8.3.5",
     "postcss-cli": "^8.3.1"
   },
   "scripts": {
